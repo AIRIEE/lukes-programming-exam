@@ -1,0 +1,5 @@
+Apr 03, 2025 10:59:30 A.M. logging.AssignmentLogger logMain
+INFO: 
+
+Main method call: static calls generate minimal logs, call logConstructor(this) in constructor to log full class details - must be after any 'super' calls
+

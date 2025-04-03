@@ -1,0 +1,46 @@
+Apr 03, 2025 12:24:36 P.M. logging.AssignmentLogger logMain
+INFO: 
+
+Main method call: static calls generate minimal logs, call logConstructor(this) in constructor to log full class details - must be after any 'super' calls
+
+Apr 03, 2025 12:24:36 P.M. logging.AssignmentLogger logConstructor
+INFO: 
+
+----Machine and version details----
+
+MyAsignment
+Ran from: C:\Users\parit\Desktop\finalasignment\asignment
+Ran by: parit
+OS Details:Windows 11 amd64
+Java details:23.0.1 C:\Users\parit\.jdks\openjdk-23.0.1
+
+----Assignment Summary Details---- 
+
+Total Constructors = 1
+Total Fields = 0
+Total Methods = 2
+
+ ----FULL METHOD DETAILS---- 
+
+TOTAL METHODS = 2
+
+***METHOD 1
+public void main 
+Parameter 1 is type  Array of java.lang.String;
+***METHOD 2
+private void name No-parameters
+
+ ----FULL FIELDS DETAILS----
+
+TOTAL COUNT=0
+
+----FULL CONSTRUCTOR(S) DETAILS----
+
+TOTAL COUNT=1
+***CONSTRUCTOR 1
+MyAsignment No-parameters
+
+----LIST OF RECENT METHOD CALLS---
+
+ Constructor call 
+

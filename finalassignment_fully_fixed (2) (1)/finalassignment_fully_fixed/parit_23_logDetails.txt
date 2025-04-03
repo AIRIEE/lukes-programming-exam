@@ -1,0 +1,68 @@
+Apr 03, 2025 11:47:48 P.M. logging.AssignmentLogger logStaticMethodEntry
+INFO: 
+
+Static method entry: static calls generate minimal logs, call logConstructor(this) in constructor to log full class details - must be after any 'super' calls
+
+Apr 03, 2025 11:47:48 P.M. logging.AssignmentLogger logConstructor
+INFO: 
+
+----Machine and version details----
+
+CoffeeMachine
+Ran from: C:\Users\parit\Downloads\finalassignment_fully_fixed
+Ran by: parit
+OS Details:Windows 11 amd64
+Java details:23.0.1 C:\Users\parit\.jdks\openjdk-23.0.1
+
+----Assignment Summary Details---- 
+
+Total Constructors = 1
+Total Fields = 8
+Total Methods = 2
+
+ ----FULL METHOD DETAILS---- 
+
+TOTAL METHODS = 2
+
+***METHOD 1
+private void switchLanguage No-parameters
+***METHOD 2
+private void lambda$new$0 
+Parameter 1 is type java.awt.event.ActionEvent
+
+ ----FULL FIELDS DETAILS----
+
+TOTAL COUNT=8
+***FIELD 1
+private javax.swing.JTextField coffeeInput
+***FIELD 2
+private javax.swing.JButton startButton
+***FIELD 3
+private javax.swing.JLabel messageLabel
+***FIELD 4
+private javax.swing.JComboBox languageSelector
+***FIELD 5
+private javax.swing.JLabel coffeeImageLabel
+***FIELD 6
+private javax.swing.JLabel statusLabel
+***FIELD 7
+private java.util.ResourceBundle messages
+***FIELD 8
+private java.util.Locale currentLocale
+
+----FULL CONSTRUCTOR(S) DETAILS----
+
+TOTAL COUNT=1
+***CONSTRUCTOR 1
+CoffeeMachine 
+Parameter 1 is type java.util.Locale
+
+----LIST OF RECENT METHOD CALLS---
+
+ Constructor call 
+
+Apr 03, 2025 11:47:48 P.M. logging.AssignmentLogger logStaticMethodExit
+INFO: 
+
+Static method exit: static calls generate minimal logs, call logConstructor(this) in constructor to log full class details - must be after any 'super' calls
+
